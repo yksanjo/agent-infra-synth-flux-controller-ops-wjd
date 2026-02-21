@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-synth-flux-controller-ops-wjd",
+  "version": "1.0.0",
+  "description": "Intelligent automation framework",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "synth-flux-controller-ops-wjd"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-synth-flux-controller-ops-wjd.git"
+  }
+}
